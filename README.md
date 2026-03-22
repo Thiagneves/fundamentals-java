@@ -15,6 +15,9 @@ Este repositório organiza meus estudos em **Fundamentos de Java**, reunindo exe
 ### 📦 Programação Orientada a Objetos (POO)
 - [Fundamentos de POO (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/poo/fundamentos-POO-IFNMG)
 
+### 💸 Abstração
+- [Tipo Abstrato de Dados (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/abstracao/Tipo-abstrato-de-dados-IFNMG)
+
 ### 🔒 Encapsulamento
 - [Encapsumento com POO (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/encapsulamento/encapsulamento-POO-IFNMG)
 - [Projetos - Encapsulamento (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/encapsulamento/Projetos-encapsulamento-POO-IFNMG)
