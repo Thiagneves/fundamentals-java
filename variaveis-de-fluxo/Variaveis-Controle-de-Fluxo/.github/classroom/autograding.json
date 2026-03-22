@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Questão 01 - Teste 1",
+      "setup": "javac src/questao01/Principal.java -d bin",
+      "run": "java -cp bin questao01.Principal",
+      "input": "10\n20",
+      "output": "O maior número é 20",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Questão 01 - Teste 2",
+      "setup": "javac src/questao01/Principal.java -d bin",
+      "run": "java -cp bin questao01.Principal",
+      "input": "20\n10",
+      "output": "O maior número é 20",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Questão 01 - Teste 3",
+      "setup": "javac src/questao01/Principal.java -d bin",
+      "run": "java -cp bin questao01.Principal",
+      "input": "-10\n-20",
+      "output": "O maior número é -10",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "Questão 01 - Teste 4",
+      "setup": "javac src/questao01/Principal.java -d bin",
+      "run": "java -cp bin questao01.Principal",
+      "input": "10\n10",
+      "output": "Os números são iguais",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
