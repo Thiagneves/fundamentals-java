@@ -6,14 +6,18 @@ Este repositório organiza meus estudos em **Fundamentos de Java**, reunindo exe
 
 ## 📚 Conteúdos
 
+### 🧭 Váriaveis de Fluxo
+- [Projeto - Váriaveis de Fluxo (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/variaveis-de-fluxo/Variaveis-Controle-de-Fluxo)
+
 ### 🏷️ Classes e Objetos
-- 
+- [Classes e Objetos (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/variaveis-de-fluxo/Variaveis-Controle-de-Fluxo)
 
 ### 📦 Programação Orientada a Objetos (POO)
-- 
+- [Fundamentos de POO (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/poo/fundamentos-POO-IFNMG)
 
 ### 🔒 Encapsulamento
-- 
+- [Encapsumento com POO (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/encapsulamento/encapsulamento-POO-IFNMG)
+- [Projetos - Encapsulamento (IFNMG)](https://github.com/Thiagneves/fundamentals-java/tree/main/encapsulamento/Projetos-encapsulamento-POO-IFNMG)
 
 ---
 
@@ -25,6 +29,7 @@ Reunir **todo o aprendizado em Fundamentos de Java**, facilitando revisões e ap
 
 ## 💻 Estrutura do Repositório
 
+- `/VariaveisDeFluxo` - Exercícios e projetos prátivos
 - `/ClassesObjetos` – Exercícios e exemplos de classes e objetos  
 - `/POO` – Exercícios e exemplos de programação orientada a objetos  
 - `/Encapsulamento` – Exercícios e exemplos de encapsulamento  
