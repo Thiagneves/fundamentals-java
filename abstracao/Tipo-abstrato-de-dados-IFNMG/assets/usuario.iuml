@@ -1,0 +1,11 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Usuario{
+ - nome: String
+ - usuario: String
+ - senha: String
+ 
+ - autenticar(usuario: String, senha: String):boolean
+ 
+}
+@enduml
